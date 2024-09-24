@@ -1,0 +1,395 @@
+{
+    "countries": [
+        {
+            "name": "Afghanistan",
+            "capital": "Kabul",
+            "population": 40099462,
+            "land_area_sq_km": 652230,   
+            "Fun_Fact": "Afghanistan has a rich historical heritage and was a part of the ancient Silk Road trade route.The city of Herat,for example, has a history dating back over 2,000 years and has been a center of art and learning"
+        },
+        {
+            "name": "Armenia",
+            "capital": "Yerevan",
+            "population": 2790974,
+            "land_area_sq_km": 29743,
+            "Fun_Fact": "Armenia is known as the Land of Apricots. The country has a long history of cultivating apricots, and the fruit is considered a national symbol"
+        },
+        {
+            "name": "Azerbaijan",
+            "capital": "Baku",
+            "population": 10312992,
+            "land_area_sq_km": 86600,
+            "Fun_Fact": "Azerbaijan is sometimes referred to as the Land of Fire due to the continuously burning natural gas vents on the Absheron Peninsula. This association with fire is also reflected in Azerbaijan's national emblem"
+        },
+        {
+            "name": "Bahrain",
+            "capital": "Manama",
+            "population": 1463265,
+            "land_area_sq_km": 760,
+            "Fun_Fact": "Bahrain has a rich history of pearl diving, and pearls were a major part of the economy until the discovery of oil. The country was one of the world's leading centers for pearl trading"
+
+        },
+        {
+            "name": "Bangladesh",
+            "capital": "Dhaka",
+            "population": 169356251,
+            "land_area_sq_km": 147570,
+            "Fun_Fact": "Bangladesh is home to the world's largest river delta, formed by the confluence of the Ganges, Brahmaputra, and Meghna rivers. The Sundarbans, the largest mangrove forest in the world, is part of this delta"
+
+        },
+        {
+            "name": "Bhutan",
+            "capital": "Thimphu",
+            "population": 777486,
+            "land_area_sq_km": 38394,
+            "Fun_Fact": "Bhutan is one of the few countries in the world without traffic lights. Instead, traffic is managed by traffic police at intersections, contributing to the country's serene atmosphere"
+
+        },
+        {
+            "name": "Brunei",
+            "capital": "Bandar Seri Begawan",
+            "population": 460356,
+            "land_area_sq_km": 5765,
+            "Fun_Fact": "Brunei is one of the few countries in the world with no personal income tax. The government funds its services primarily through revenue from oil and gas"
+
+        },
+        {
+            "name": "Cambodia",
+            "capital": "Phnom Penh",
+            "population": 16589023,
+            "land_area_sq_km": 181035,
+            "Fun_Fact": "Cambodia is home to the famous Angkor Wat, the largest religious monument in the world. It was originally built in the 12th century as a Hindu temple and later converted to a Buddhist temple"
+
+        },
+        {
+            "name": "China",
+            "capital": "Beijing",
+            "population": 1425893465,
+            "land_area_sq_km": 9596961,
+            "Fun_Fact": "China has a rich history of inventions, including paper, gunpowder, printing, and the compass. The country has made significant contributions to science and technology throughout its history"
+        },
+        {
+            "name": "Cyprus",
+            "capital": "Nicosia",
+            "population": 1244188,
+            "land_area_sq_km": 9251,
+            "Fun_Fact": "Nicosia, the capital of Cyprus, is the only divided capital in the world. The Green Line, patrolled by UN troops, separates the Greek Cypriot south from the Turkish Cypriot north"
+
+        },
+        {
+            "name": "Georgia",
+            "capital": "Tbilisi",
+            "population": 3757980,
+            "land_area_sq_km": 69700,
+            "Fun_Fact": "Georgia is one of the oldest wine-producing countries in the world, with a winemaking tradition dating back over 8,000 years"
+
+        },
+        {
+            "name": "India",
+            "capital": "New Delhi",
+            "population": 1407563842,
+            "land_area_sq_km": 3287263,
+            "Fun_Fact": "One of the most iconic symbols of India is the Taj Mahal, a white marble mausoleum in Agra. Built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal, it is a UNESCO World Heritage Site and a marvel of architecture"
+
+        },
+        {
+            "name": "Indonesia",
+            "capital": "Jakarta",
+            "population": 273753191,
+            "land_area_sq_km": 1904569,
+            "Fun_Fact": "Indonesia is located in the Pacific Ring of Fire, making it prone to earthquakes and volcanic activity. The country has numerous active volcanoes, contributing to its unique geological landscape"
+
+        },
+        {
+            "name": "Iran",
+            "capital": "Tehran",
+            "population": 87923432,
+            "land_area_sq_km": 1648195,
+            "Fun_Fact": "Iran has a rich literary tradition, with poetry playing a significant role in its cultural history. Renowned poets like Rumi and Hafez have left a lasting impact on Persian literature"
+        },
+        {
+            "name": "Iraq",
+            "capital": "Baghdad",
+            "population": 43533592,
+            "land_area_sq_km": 438317,
+            "Fun_Fact": "The historic city of Babylon, located in present-day Iraq, was one of the most important cities of ancient Mesopotamia. It is known for the Hanging Gardens, one of the Seven Wonders of the Ancient World"
+
+        },
+        {
+            "name": "Israel",
+            "capital": "Jerusalem",
+            "population": 8900059,
+            "land_area_sq_km": 20770,
+            "Fun_Fact": "Israel shares the shores of the Dead Sea with Jordan. The Dead Sea is known for its high salt concentration, allowing people to float effortlessly on the surface of the water"
+
+        },
+        {
+            "name": "Japan",
+            "capital": "Tokyo",
+            "population": 124612530,
+            "land_area_sq_km": 377915,
+            "Fun_Fact": "Japan is famous for its cherry blossoms, or sakura, which bloom in spring. The annual cherry blossom season is celebrated with hanami (flower-viewing) festivals and is a symbol of the transient beauty of life"
+
+        },
+        {
+            "name": "Jordan",
+            "capital": "Amman",
+            "population": 11148278,
+            "land_area_sq_km": 89342,
+            "Fun_Fact": "Jordan is home to the ancient city of Petra, a UNESCO World Heritage Site. Known as the Rose City due to the color of the stone, Petra is famous for its rock-cut architecture, including the iconic Treasury"
+
+        },
+        {
+            "name": "Kazakhstan",
+            "capital": "Nur-Sultan",
+            "population": 19196465,
+            "land_area_sq_km": 2724900,
+            "Fun_Fact": "Kazakhstan has a rich nomadic heritage, and traditional practices such as yurts (portable round tents) and eagle hunting are still preserved among certain Kazakh communities"
+
+        },
+        {
+            "name": "Kuwait",
+            "capital": "Kuwait City",
+            "population": 4250114,
+            "land_area_sq_km": 17818,
+            "Fun_Fact": "The Kuwait Towers are iconic structures in the country. The main tower contains a water tank, a restaurant, and an observation deck with panoramic views of the city"
+        },
+
+
+        {
+            "name": "Kyrgyzstan",
+            "capital": "Bishkek",
+            "population": 6527743,
+            "land_area_sq_km": 199951,
+            "Fun_Fact": "Kyrgyzstan is home to Issyk-Kul Lake, one of the largest alpine lakes in the world. Despite being surrounded by mountains, the lake never freezes, earning it the nickname The Pearl of Central Asia"
+        },
+        {
+            "name": "Laos",
+            "capital": "Vientiane",
+            "population": 7425057,
+            "land_area_sq_km": 236800,
+            "Fun_Fact": "Laos has efforts in place to protect its elephant population. The country is home to the Elephant Conservation Center, where initiatives focus on the welfare and conservation of Asian elephants"
+
+        },
+        {
+            "name": "Lebanon",
+            "capital": "Beirut",
+            "population": 5592631,
+            "land_area_sq_km": 10452,
+            "Fun_Fact": "Lebanon is known for the ancient Cedars of Lebanon, which are mentioned in the Bible. These majestic trees have been a symbol of the country for centuries"
+
+        },
+        {
+            "name": "Malaysia",
+            "capital": "Kuala Lumpur",
+            "population": 33573874,
+            "land_area_sq_km": 329847,
+            "Fun_Fact": "Malaysia is known for its cultural diversity, with a mix of Malay, Chinese, Indian, and indigenous influences. This diversity is reflected in the country's festivals, languages, and cuisine"
+
+        },
+        {
+            "name": "Maldives",
+            "capital": "Male",
+            "population": 521457,
+            "land_area_sq_km": 298,
+            "Fun_Fact": "The Maldives is renowned for its breathtaking coral reefs and underwater biodiversity. It's a popular destination for snorkeling and diving enthusiasts"
+
+        },
+        {
+            "name": "Mongolia",
+            "capital": "Ulaanbaatar",
+            "population": 3347782,
+            "land_area_sq_km": 1564116,
+            "Fun_Fact": "The Gobi Desert, spanning both Mongolia and China, is a unique and diverse ecosystem. It's home to rare species such as the Bactrian camel and the elusive snow leopard"
+
+        },
+        {
+            "name": "Myanmar",
+            "capital": "Naypyidaw",
+            "population": 53798084,
+            "land_area_sq_km": 676578,
+            "Fun_Fact": "Bagan is an ancient city in Myanmar known for its thousands of temples and pagodas. The Bagan archaeological zone is a UNESCO World Heritage Site and a testament to the country's rich history"
+
+        },
+        {
+            "name": "Nepal",
+            "capital": "Kathmandu",
+            "population": 30034989,
+            "land_area_sq_km": 147516,
+            "Fun_Fact": "Nepal is home to Mount Everest, the world's highest peak. The trek to Everest Base Camp is a popular adventure for trekkers and mountaineers from around the globe"
+
+        },
+        {
+            "name": "North Korea",
+            "capital": "Pyongyang",
+            "population": 25971909,
+            "land_area_sq_km": 120538,
+            "Fun_Fact": "North Korea is known for its Mass Games, large-scale performances that involve thousands of participants showcasing synchronized gymnastics, dance, and other artistic displays"
+
+        },
+        {
+            "name": "Oman",
+            "capital": "Muscat",
+            "population": 4520471,
+            "land_area_sq_km": 309500,
+            "Fun_Fact": "Oman has a long history of producing frankincense, a resin obtained from Boswellia trees. The ancient trading port of Salalah was a major center for the trade of frankincense"
+
+        },
+        {
+            "name": "Pakistan",
+            "capital": "Islamabad",
+            "population": 231402117,
+            "land_area_sq_km": 881913,
+            "Fun_Fact": "Pakistan is home to some of the world's highest mountain peaks, including K2, the second-highest mountain on Earth. The country's northern regions boast breathtaking landscapes of the Himalayas and the Karakoram Range"
+
+        },
+        {
+            "name": "Palestine",
+            "capital": "Ramallah",
+            "population": 5133392,
+            "land_area_sq_km": 6220,
+            "Fun_Fact": "The Old City of Jerusalem is a UNESCO World Heritage Site and is considered a sacred site for Judaism, Christianity, and Islam. It contains significant religious landmarks, including the Western Wall, the Church of the Holy Sepulchre, and the Dome of the Rock"
+
+
+        },
+        {
+            "name": "Philippines",
+            "capital": "Manila",
+            "population": 113880328,
+            "land_area_sq_km": 343448,
+            "Fun_Fact": "The Chocolate Hills in Bohol, Philippines, consist of over 1,200 cone-shaped hills that turn brown during the dry season, resembling chocolate kisses. They are a unique geological formation and a popular tourist attraction"
+
+        },
+        {
+            "name": "Qatar",
+            "capital": "Doha",
+            "population": 2688235,
+            "land_area_sq_km": 11586,
+            "Fun_Fact": "Qatar has a modern and futuristic skyline, particularly in its capital, Doha. The city is known for its iconic skyscrapers, futuristic architecture, and the artificial island, The Pearl-Qatar"
+
+        },
+        {
+            "name": "Saudi Arabia",
+            "capital": "Riyadh",
+            "population": 35950396,
+            "land_area_sq_km": 2149690,
+            "Fun_Fact": "Saudi Arabia is home to Islam's two holiest cities, Mecca and Medina. Mecca is the birthplace of Prophet Muhammad, and both cities attract millions of pilgrims during the annual Hajj pilgrimage"
+
+        },
+        {
+            "name": "Singapore",
+            "capital": "Singapore",
+            "population": 5941060,
+            "land_area_sq_km": 697,
+            "Fun_Fact": "Singapore is home to the Gardens by the Bay, featuring the iconic Supertree Grove. These futuristic tree-like structures are vertical gardens that light up at night and contribute to the city's skyline"
+
+        },
+        {
+            "name": "South Korea",
+            "capital": "Seoul",
+            "population": 51830139,
+            "land_area_sq_km": 99720,
+            "Fun_Fact": "South Korea has had a significant impact on global pop culture through the Hallyu wave, including K-pop music, K-dramas, and Korean films. Groups like BTS and dramas like Squid Game have gained international acclaim"
+
+        },
+        {
+            "name": "Sri Lanka",
+            "capital": "Colombo",
+            "population": 21773441,
+            "land_area_sq_km": 65610,
+            "Fun_Fact": "Sri Lanka is renowned for its scenic tea plantations in the central highlands. The town of Nuwara Eliya is known as the Little England of Sri Lanka and is a major tea-producing region"
+
+        },
+        {
+            "name": "Syria",
+            "capital": "Damascus",
+            "population": 21324367,
+            "land_area_sq_km": 185180,
+            "Fun_Fact": "Syria is home to the ancient city of Palmyra, an archaeological site with well-preserved ruins. The city was a crucial center for trade and culture in the ancient world"
+
+        },
+        {
+            "name": "Taiwan",
+            "capital": "Taipei",
+            "population": 23859912,
+            "land_area_sq_km": 35980,
+            "Fun_Fact": "Sun Moon Lake is a picturesque alpine lake situated in the central part of Taiwan. The lake is known for its stunning scenery, with the surrounding mountains reflecting on the water's surface"
+
+        },
+        {
+            "name": "Tajikistan",
+            "capital": "Dushanbe",
+            "population": 9750064,
+            "land_area_sq_km": 143100,
+            "Fun_Fact": "Tajikistan is home to a significant portion of the Pamir Mountains, often referred to as the Roof of the World. The Pamir Highway offers stunning views of these rugged and remote landscapes"
+
+        },
+        {
+            "name": "Thailand",
+            "capital": "Bangkok",
+            "population": 71601103,
+            "land_area_sq_km": 513120,
+            "Fun_Fact": "Thailand is famous for its Songkran Festival, which marks the traditional Thai New Year. Celebrated in April, it is known for water fights in the streets, symbolizing the cleansing of the past and welcoming the new year"
+
+        },
+        {
+            "name": "East-Timor",
+            "capital": "Dili",
+            "population": 1320942,
+            "land_area_sq_km": 14874,
+            "Fun_Fact": "Coffee is a significant export for Timor-Leste. The country has been working to develop its coffee industry, producing high-quality Arabica coffee beans"
+
+        },
+        {
+            "name": "Turkey",
+            "capital": "Ankara",
+            "population": 84775404,
+            "land_area_sq_km": 783562,
+            "Fun_Fact": "Turkish delight, or lokum, is a traditional sweet treat in Turkey. It comes in various flavors and is often made with sugar, starch, and nuts"
+
+        },
+        {
+            "name": "Turkmenistan",
+            "capital": "Ashgabat",
+            "population": 6341855,
+            "land_area_sq_km": 488100,
+            "Fun_Fact": "Turkmenistan is home to the Darvaza Gas Crater, also known as the Door to Hell.It is a natural gas field that has been burning continuously since 1971, creating a surreal and mesmerizing sight"
+
+        },
+        {
+            "name": "United Arab Emirates",
+            "capital": "Abu Dhabi",
+            "population": 9365145,
+            "land_area_sq_km": 83600,
+            "Fun_Fact": "The Burj Khalifa in Dubai is the tallest building in the world, standing at 828 meters (2,717 feet). It offers breathtaking views of the city and is a symbol of the UAE's modernity"
+
+        },
+        {
+            "name": "Uzbekistan",
+            "capital": "Tashkent",
+            "population": 34081449,
+            "land_area_sq_km": 447400,
+            "Fun_Fact": "Uzbekistan is known for its historic Silk Road cities, including Samarkand, Bukhara, and Khiva. These cities boast stunning Islamic architecture and have played a crucial role in trade and culture"
+
+        },
+        {
+            "name": "Vietnam",
+            "capital": "Hanoi",
+            "population": 97468029,
+            "land_area_sq_km": 332698,
+            "Fun_Fact": "Cyclos are a traditional mode of transportation in Vietnam. These three-wheeled rickshaws are pedaled by drivers and provide a unique and leisurely way to explore cities"
+
+        },
+        {
+            "name": "Yemen",
+            "capital": "Sana'a",
+            "population": 32981641,
+            "land_area_sq_km": 527968,
+            "Fun_Fact": "Sana'a, the capital of Yemen, is home to the Old City, a UNESCO World Heritage Site. The city's unique architecture features centuries-old tower houses made of mud and brick"
+
+        }
+    ]
+}
+
+
+                  

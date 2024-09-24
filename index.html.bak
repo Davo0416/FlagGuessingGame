@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flag Guessing Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<div id="hide">
+		<div class="hintBox">
+			<div id="headerWrapper">
+				<h2>TEST YOUR KNOWLEDGE OF THE FLAGS OF ASIA ... </h2>
+			</div>
+			<p id="score">Score: 0 / 49</p>
+			
+			<!---->
+		</div>
+		
+		<section id="flagSection">
+			
+			<!--<button onclick="RandomCountry()">Click Me!</button>-->
+			
+			<form id="guessForm">
+				<!-- Displaying the flag -->
+				<div id="flagDisplayForm">
+
+					<img src="Iran.png" id="flagImg" alt="Flag Image" width= "40%"> 
+				</div>
+
+				<!-- Buttons for entering answers -->
+				<div id="buttonSection">
+					<button type='button' class="answerForm" id="ans1" onclick="submitAnswer('ans1')">Answer 1</button>
+					<button type='button' class="answerForm" id="ans2" onclick="submitAnswer('ans2')">Answer 2</button><br>
+					<button type='button' class="answerForm" id="ans3" onclick="submitAnswer('ans3')">Answer 3</button>
+					<button type='button' class="answerForm" id="ans4" onclick="submitAnswer('ans4')">Answer 4</button>
+				</div>
+			</form>
+			
+
+		</section>
+			<div class="inline">
+				<h2 class = "hintTxt" > Hint</h2>
+				<button id="hintButton" onclick = "RevealHint()" >Reveal</button>
+				<p id="htxt"></p>
+			</div>
+			
+			
+	</div>
+	
+	<div id="winScreen" ><!--style="display:none"-->
+		<h2> YOU WON! <h2>
+		<p>Score: 0 / 49</p>
+		<p>Hints Used: 0</p>
+		<button id="RestartBtn" onclick = "Reload()">Play Again</button>
+	</div>
+	
+    <script src="Javascript.js"></script>
+</body>
+</html>
